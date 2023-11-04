@@ -11,4 +11,6 @@ spring:
       ddl-auto: update
     show-sql: true
 server:
+  servlet:
+    context-path: /card-service
   port: 8061
