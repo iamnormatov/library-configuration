@@ -12,5 +12,5 @@ spring:
     show-sql: true
 server:
   servlet:
-    context-path: /user-service
+    context-path: /goals-service
   port: 8041

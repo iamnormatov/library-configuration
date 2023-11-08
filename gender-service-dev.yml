@@ -12,5 +12,5 @@ spring:
     show-sql: true
 server:
   servlet:
-    context-path: /user-service
+    context-path: /gender-service
   port: 8051

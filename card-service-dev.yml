@@ -12,5 +12,5 @@ spring:
     show-sql: true
 server:
   servlet:
-    context-path: /user-service
+    context-path: /card-service
   port: 8061
