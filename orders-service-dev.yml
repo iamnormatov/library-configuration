@@ -11,6 +11,6 @@ spring:
       ddl-auto: update
     show-sql: true
 server:
-  servlet:
-    context-path: /orders-service
+#  servlet:
+#    context-path: /orders-service
   port: 8021
